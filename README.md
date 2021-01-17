@@ -1,0 +1,2 @@
+# belgeler
+Pardus Çalışma Belgeleri
